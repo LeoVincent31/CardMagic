@@ -1,3 +1,11 @@
+/*Polices d'écriture*/
+
+
+
+
+
+
+
 * {
     background-color: black;
     color: blueviolet;
@@ -7,4 +15,8 @@ div {
     height: 200px;
     display: flex;
     justify-content: center;
+}
+
+h1 {
+    font-size: 400%;
 }
