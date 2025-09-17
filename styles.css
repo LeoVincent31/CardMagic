@@ -1,0 +1,10 @@
+* {
+    background-color: black;
+    color: blueviolet;
+}
+
+div {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
