@@ -78,6 +78,13 @@ nav a:hover {
 
 /* middle page */
 
-div.middle-page div {
-    
+.middle-page {
+    margin: 100px;
 }
+
+.category-type {
+    position: relative;
+    left: -175px;
+}
+
+
